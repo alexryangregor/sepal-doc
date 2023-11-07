@@ -1,7 +1,7 @@
 Other
 =====
 
-Modules with the **Other** tag include:
+List of the modules gathered under the Other tag:
 
 .. toctree::
     :maxdepth: 1
@@ -42,3 +42,4 @@ Modules with the **Other** tag include:
     :doc:`dwn/gee-source`,"Extract source code from any GEE app URL"
     :doc:`dwn/weplan`,"Explore restoration planning solution provided by WePlan - Forests"
     :doc:`dwn/basin-river`,"Get Forest Cover Change by upstream sub-catchment"
+

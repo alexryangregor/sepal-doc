@@ -407,3 +407,5 @@ Navigate through the images using the buttons in the **Planet navigator**. Use :
     :group: alert-module
 
 .. custom-edit:: https://raw.githubusercontent.com/sepal-contrib/alert_module/release/doc/en.rst
+
+.. custom-edit:: https://raw.githubusercontent.com/sepal-contrib/alert_module/release/doc/en.rst

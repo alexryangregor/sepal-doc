@@ -88,3 +88,5 @@ You can download these three files directly from the interface using the green b
     :group: gfc_wrapper
 
 .. custom-edit:: https://raw.githubusercontent.com/sepal-contrib/gfc_wrapper_python/release/doc/en.rst
+
+.. custom-edit:: https://raw.githubusercontent.com/sepal-contrib/gfc_wrapper_python/release/doc/en.rst

@@ -249,3 +249,5 @@ Select the **cloud** in the upper-left corner of the map to open the following p
 Select :guilabel:`Apply` to start the exportation process.
 
 .. custom-edit:: https://raw.githubusercontent.com/sepal-contrib/fcdm/release/doc/en.rst
+
+.. custom-edit:: https://raw.githubusercontent.com/sepal-contrib/fcdm/release/doc/en.rst

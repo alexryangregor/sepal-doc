@@ -271,3 +271,5 @@ On the left side, you can access:
     :width: 600
 
 .. custom-edit:: https://raw.githubusercontent.com/sepal-contrib/sepal_smfm_biota/release/doc/en.rst
+
+.. custom-edit:: https://raw.githubusercontent.com/sepal-contrib/sepal_smfm_biota/release/doc/en.rst

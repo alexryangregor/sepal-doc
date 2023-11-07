@@ -1077,3 +1077,5 @@ This tool has been developed by UN FAO in close collaboration with Spatial Infor
     :height: 100
 
 .. custom-edit:: https://raw.githubusercontent.com/sepal-contrib/se.plan/release/doc/en.rst
+
+.. custom-edit:: https://raw.githubusercontent.com/sepal-contrib/se.plan/release/doc/en.rst

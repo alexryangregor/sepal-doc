@@ -1257,3 +1257,5 @@ Here is the result of the computation using SPA2 (two classes) on the :code:`exa
     :group: gwb-module
 
 .. custom-edit:: https://raw.githubusercontent.com/sepal-contrib/gwb/release/doc/en.rst
+
+.. custom-edit:: https://raw.githubusercontent.com/sepal-contrib/gwb/release/doc/en.rst

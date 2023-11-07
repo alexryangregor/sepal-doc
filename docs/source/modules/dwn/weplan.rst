@@ -53,3 +53,5 @@ The application will retrieve four types of analysis from the WePlan - Forests p
 For more information about the computation methodology and scenarios, refer to the `WePlan - Forests website <http://www.weplan-forests.org/flrp/choose.php>`__.
 
 .. custom-edit:: https://raw.githubusercontent.com/sepal-contrib/weplan/release/doc/en.rst
+
+.. custom-edit:: https://raw.githubusercontent.com/sepal-contrib/weplan/release/doc/en.rst

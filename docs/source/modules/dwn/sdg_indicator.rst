@@ -485,3 +485,5 @@ The following .gif will show you the full reclassification process with a simple
     :alt: Reclassification demo
 
 .. custom-edit:: https://raw.githubusercontent.com/sepal-contrib/sdg_15.3.1/release/doc/en.rst
+
+.. custom-edit:: https://raw.githubusercontent.com/sepal-contrib/sdg_15.3.1/release/doc/en.rst
